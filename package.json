@@ -1,0 +1,20 @@
+{
+    "name": "@aaxis/react-native-cookies",
+    "version": "1.0.0",
+    "description": "Cookie manager for react native",
+    "keywords": [
+        "react",
+        "react native",
+        "react-component",
+        "cookies",
+        "webview",
+        "react-native",
+        "aaxis"
+    ],
+    "main": "index.js",
+    "author": "@zacharyhou",
+    "license": "MIT",
+    "dependencies": {
+        "invariant": "^2.1.0"
+    }
+}
