@@ -1,1 +1,1 @@
-# -vurtnec-react-native-cookies
+# vurtnec-react-native-cookies
