@@ -5,6 +5,10 @@
 #import <React/RCTBridgeModule.h>
 #endif
 
+#import <WebKit/WebKit.h>
+
 @interface RNCookieManagerIOS : NSObject <RCTBridgeModule>
+
+@property (nonatomic, strong) NSDateFormatter *formatter;
 
 @end
